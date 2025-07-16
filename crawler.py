@@ -201,14 +201,15 @@ def main():
         # {'index': 'g293998', 'country': 'Iran'},
         # {'index': 'g293860', 'country': 'India'},
         # {'index': 'g294459', 'country': 'Russia'},
-        # {'index': 'g294211', 'country': 'China'},
+        {'index': 'g294211', 'country': 'China'},
         # {'index': 'g187275', 'country': 'Germany'},
         # {'index': 'g187768', 'country': 'Italy'},
         # {'index': 'g293969', 'country': 'Turkey'},
         # {'index': 'g187427', 'country': 'Spain'}, 
         # {'index': 'g187070', 'country': 'France'},
         # {'index': 'g293951', 'country': 'Malaysia'},
-        {'index': 'g293915', 'country': 'Thailand'},
+        # {'index': 'g293915', 'country': 'Thailand'},
+        {'index': 'g60878', 'country': 'USA'},
     ]
     cities = []
     for country in countries:
